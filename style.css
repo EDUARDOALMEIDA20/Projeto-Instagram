@@ -119,13 +119,3 @@ input{
   gap: 10px;
 }
 
-@media(max-width: 900px) {
-  .caixa-imagens {
-    display: none;
-  }
-
-  .caixa-form {
-    border: none;
-    padding: 20px;
-  }
-}
